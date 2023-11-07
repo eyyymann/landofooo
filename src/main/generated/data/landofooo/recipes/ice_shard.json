@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "landofooo:deep_ice"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "landofooo:ice_shard"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "landofooo:block/deep_ice",
+    "east": "landofooo:block/ice_crafting_table_side",
+    "north": "landofooo:block/ice_crafting_table_front",
+    "particle": "landofooo:block/ice_crafting_table_front",
+    "south": "landofooo:block/ice_crafting_table_side",
+    "up": "landofooo:block/ice_crafting_table_top",
+    "west": "landofooo:block/ice_crafting_table_front"
+  }
+}

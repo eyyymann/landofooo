@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/fence_inventory",
+  "textures": {
+    "texture": "landofooo:block/cotton_candy_planks"
+  }
+}

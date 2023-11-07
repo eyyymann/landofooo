@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "b": {
+      "item": "landofooo:deep_ice"
+    },
+    "i": {
+      "item": "landofooo:ice_shard"
+    }
+  },
+  "pattern": [
+    " bb",
+    " i ",
+    " i "
+  ],
+  "result": {
+    "item": "landofooo:ice_hoe"
+  },
+  "show_notification": true
+}

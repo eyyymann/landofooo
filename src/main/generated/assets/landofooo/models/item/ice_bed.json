@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/template_bed",
+  "textures": {
+    "particle": "landofooo:block/deep_ice"
+  }
+}

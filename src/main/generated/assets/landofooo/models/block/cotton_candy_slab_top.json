@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "landofooo:block/cotton_candy_planks",
+    "side": "landofooo:block/cotton_candy_planks",
+    "top": "landofooo:block/cotton_candy_planks"
+  }
+}

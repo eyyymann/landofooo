@@ -1,0 +1,23 @@
+// 1.20.2	2023-11-02T12:53:26.3972748	Land Of Ooo/Tags for minecraft:block
+2239881f061b5558c44a29e9aae5ba092f83440e data\minecraft\tags\blocks\fence_gates.json
+461d794373beaf45d2a8245e924df1875930b497 data\minecraft\tags\blocks\trapdoors.json
+07afef115b9611118fac7261e2943ae4da56f3ea data\landofooo\tags\blocks\ruin_solid_blocks.json
+540a0a5b143f99ac8a35d1723a158c751dcdc9d0 data\minecraft\tags\blocks\fences.json
+909d8cf76d77262c6eec6d3a242a429763b80274 data\landofooo\tags\blocks\magic_blocks.json
+e8efee8ec62f5d6033696e8c64cafa1349ad6fb9 data\landofooo\tags\blocks\ruin_blocks.json
+88960021ddae0bff89de3de17a01a1418257a0dd data\minecraft\tags\blocks\mineable\shovel.json
+79b72e0e43a6f3e7801aa60583f0972ca6dc43f7 data\minecraft\tags\blocks\mineable\hoe.json
+3152a431bf015e2e38515869d40fb157903fd22c data\minecraft\tags\blocks\mineable\axe.json
+7c56400e20dc0b68d083d2c6224fa6b3f1b842ad data\minecraft\tags\blocks\buttons.json
+a8826b4dd4f7093335ba64557baaa5e44a009f52 data\minecraft\tags\blocks\doors.json
+79b72e0e43a6f3e7801aa60583f0972ca6dc43f7 data\minecraft\tags\blocks\leaves.json
+313df508dd71121aea3c7759e995339ab2876662 data\landofooo\tags\blocks\candy_blocks.json
+6db3a650254b616ba035d5dc36bfca411e42fbbf data\minecraft\tags\blocks\stairs.json
+038bf1d42db97ed882b3320c5e5cd546d7617846 data\minecraft\tags\blocks\slabs.json
+03923f4f7c18190a121d41ef3e8e96d840cefd0a data\minecraft\tags\blocks\pressure_plates.json
+efe5cb6ba7ec0fc494072976a2504ad88a3d9f7f data\minecraft\tags\blocks\logs.json
+8c9faa15b72fd4e8f3cced5554f066ff871a5981 data\minecraft\tags\blocks\needs_stone_tool.json
+02e72b4531dec3a9b44991920c46d486b107ca9a data\landofooo\tags\blocks\ice_blocks.json
+9d5cfd7dd89edd1ce80e36a0c5b2acffaf02af88 data\minecraft\tags\blocks\mineable\pickaxe.json
+63f03af4224a9a60b8e89b91dd29a2ed60f7af24 data\landofooo\tags\blocks\cotton_candy_wood.json
+4ab5f7e5b5ad739c74f2db0092d8536ced414e6e data\minecraft\tags\blocks\planks.json

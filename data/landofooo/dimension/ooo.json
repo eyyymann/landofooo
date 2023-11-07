@@ -1,0 +1,99 @@
+{
+  "type": "landofooo:ooo",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "landofooo:ooo",
+    "biome_source": {
+      "type": "minecraft:multi_noise",
+      "biomes": [
+        {
+          "biome": "landofooo:candy_plains",
+          "parameters": {
+            "temperature": [
+              -0.3,
+              0.3
+            ],
+            "humidity": 0,
+            "continentalness": [
+              0.15,
+              1
+            ],
+            "erosion": 0,
+            "weirdness": 0,
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "landofooo:cotton_candy_forest",
+          "parameters": {
+            "temperature": [
+              -0.4,
+              0.4
+            ],
+            "humidity": 0,
+            "continentalness": [
+              0.2,
+              1
+            ],
+            "erosion": 0,
+            "weirdness": 0,
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "landofooo:plains",
+          "parameters": {
+            "temperature": [
+              -0.5,
+              0.5
+            ],
+            "humidity": 0,
+            "continentalness": [
+              0.4,
+              0.5
+            ],
+            "erosion": 0,
+            "weirdness": 0,
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "landofooo:ice_mountains",
+          "parameters": {
+            "temperature": [
+              -1,
+              -0.4
+            ],
+            "humidity": 0,
+            "continentalness": [
+              0.4,
+              1
+            ],
+            "erosion": 0,
+            "weirdness": 0,
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "landofooo:sea",
+          "parameters": {
+            "temperature": 0,
+            "humidity": 0,
+            "continentalness": [
+              -1,
+              0.2
+            ],
+            "erosion": 0,
+            "weirdness": 0,
+            "depth": 0,
+            "offset": 0
+          }
+        }
+      ]
+    }
+  }
+}

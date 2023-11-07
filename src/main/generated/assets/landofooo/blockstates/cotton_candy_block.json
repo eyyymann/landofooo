@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "volume=1": {
+      "model": "landofooo:block/cotton_candy_block1"
+    },
+    "volume=2": {
+      "model": "landofooo:block/cotton_candy_block2"
+    },
+    "volume=3": {
+      "model": "landofooo:block/cotton_candy_block3"
+    }
+  }
+}

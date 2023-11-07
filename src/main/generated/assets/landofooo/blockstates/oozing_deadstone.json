@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "oozing=false": {
+      "model": "landofooo:block/oozing_deadstone_empty"
+    },
+    "oozing=true": {
+      "model": "landofooo:block/oozing_deadstone_full"
+    }
+  }
+}

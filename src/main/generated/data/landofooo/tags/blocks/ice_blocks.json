@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:ice",
+    "minecraft:packed_ice",
+    "minecraft:blue_ice",
+    "landofooo:settled_snow",
+    "landofooo:deep_ice",
+    "landofooo:ice_crafting_table"
+  ]
+}

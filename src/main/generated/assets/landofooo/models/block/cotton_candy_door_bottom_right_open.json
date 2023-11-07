@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom_right_open",
+  "textures": {
+    "bottom": "landofooo:block/cotton_candy_door_bottom",
+    "top": "landofooo:block/cotton_candy_door_top"
+  }
+}

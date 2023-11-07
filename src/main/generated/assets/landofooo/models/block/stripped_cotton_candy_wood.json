@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "landofooo:block/stripped_cotton_candy_log",
+    "side": "landofooo:block/stripped_cotton_candy_log"
+  }
+}

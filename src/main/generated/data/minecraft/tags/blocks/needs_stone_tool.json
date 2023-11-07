@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "landofooo:cone_rock",
+    "landofooo:settled_snow",
+    "landofooo:cone_rock",
+    "#landofooo:ruin_solid_blocks"
+  ]
+}

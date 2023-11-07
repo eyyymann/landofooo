@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "landofooo:block/cotton_candy_slab"
+    },
+    "type=double": {
+      "model": "landofooo:block/cotton_candy_planks"
+    },
+    "type=top": {
+      "model": "landofooo:block/cotton_candy_slab_top"
+    }
+  }
+}

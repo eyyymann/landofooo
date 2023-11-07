@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "landofooo:item/cotton_candy_on_a_stick"
+  }
+}
